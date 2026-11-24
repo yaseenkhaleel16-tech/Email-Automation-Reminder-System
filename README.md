@@ -47,14 +47,10 @@ Email-Automation-Reminder-System/
    ```
 3. Launch the interactive local web dashboard:
    ```bash
-   python dashboard.py
-
-
-   <img width="1917" height="953" alt="pic 2" src="https://github.com/user-attachments/assets/a4747854-8c69-4534-841d-769794089afd" />
-
    ```
    Open `http://127.0.0.1:8000` in your browser.
 4. *(Optional)* Configure `.env` from `.env.example` with a Gmail App Password and run live sends:
    ```bash
    python main.py --send
    ```
+<img width="1917" height="953" alt="pic 2" src="https://github.com/user-attachments/assets/f3ab9ab5-8600-41cf-9f7a-c2220a355af7" />
